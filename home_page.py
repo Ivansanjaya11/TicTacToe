@@ -1,6 +1,6 @@
 from PyQt6.QtCore import Qt
 from util import MainWindow
-from PyQt6.QtWidgets import QApplication, QVBoxLayout, QPushButton, QLabel
+from PyQt6.QtWidgets import QVBoxLayout, QPushButton, QLabel
 
 class HOME(MainWindow):
     def __init__(self, false: bool):
